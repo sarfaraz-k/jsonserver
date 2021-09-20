@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "userId" :1,
+            "userId" :"1",
             "username": "sarfaraz",
             "password": "123",
             "firstName": "sarfaraz",
@@ -10,7 +10,7 @@
             "salary":50000
         },
         {
-            "userId" :2,
+            "userId" :"2",
             "username": "sarfaraz",
             "password": "123",
             "firstName": "mahesh",
@@ -19,7 +19,7 @@
             "salary": 24000
         },
         {
-            "userId" :3,
+            "userId" :"3",
             "username": "sarfaraz",
             "password": "123",
             "firstName": "abhishek",
