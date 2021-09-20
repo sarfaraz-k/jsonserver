@@ -8,7 +8,7 @@
             "lastName": "khan",
             "age": 22,
             "salary":50000
-        }
+        },
         {
             "userId" :2,
             "username": "sarfaraz",
@@ -17,7 +17,7 @@
             "lastName": "khan",
             "age": 34,
             "salary": 24000
-        }
+        },
         {
             "userId" :3,
             "username": "sarfaraz",
